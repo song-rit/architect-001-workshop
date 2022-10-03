@@ -1,5 +1,5 @@
 # Architure-001-workshop
 
-### architecture-diagram
+### Architecture Diagram
 
-![Example1](./.document/architech.drawio.png)
+![pic-01](./.document/1.architecture.png)
