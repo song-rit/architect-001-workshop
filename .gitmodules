@@ -1,0 +1,6 @@
+[submodule "ec2-zone-nginx-api-gateway"]
+	path = ec2-zone-nginx-api-gateway
+	url = git@github.com:song-cpe/architecture-001-nginx-api-gateway.git
+[submodule "ec2-zone-stubby-api"]
+	path = ec2-zone-stubby-api
+	url = git@github.com:song-cpe/architecture-001-stubby4j-java.git
