@@ -7,3 +7,6 @@
 [submodule "flow-authentication"]
 	path = flow-authentication
 	url = git@github.com:song-rit/authentication-flow.git
+[submodule "flow-authorization-token"]
+	path = flow-authorization-token
+	url = git@github.com:song-rit/authorization-token-flow.git
