@@ -13,3 +13,6 @@
 [submodule "flow-authorization-access-resource"]
 	path = flow-authorization-access-resource
 	url = git@github.com:song-rit/authorization-access-resource.git
+[submodule "flow-authentication-short-version"]
+	path = flow-authentication-short-version
+	url = git@github.com:song-rit/authentication-mini-flow.git
