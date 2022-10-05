@@ -4,3 +4,6 @@
 [submodule "ec2-zone-stubby-api"]
 	path = ec2-zone-stubby-api
 	url = git@github.com:song-cpe/architecture-001-stubby4j-java.git
+[submodule "flow-authentication"]
+	path = flow-authentication
+	url = git@github.com:song-rit/authentication-flow.git
